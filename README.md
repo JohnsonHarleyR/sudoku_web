@@ -1,4 +1,4 @@
-# sudoku_web #sudoku #java #SpringMVC #project
+# sudoku_web
 
 <i>(Not yet complete)</i>
 A Sudoku project created in Spring MVC.<br>
@@ -41,3 +41,5 @@ A Sudoku project created in Spring MVC.<br>
   <li>Create a point system/high score table for the player to keep track of their stats.</li>
   <li>Implement some animation and sound! <i>(Gotta learn to do this first lol. Maybe javaScript? I have a new book.)</i></li>
 </ul>
+
+<p>#sudoku #java #SpringMVC #project</p>
