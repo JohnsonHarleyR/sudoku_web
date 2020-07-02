@@ -3,7 +3,10 @@
 <i>(Not yet complete)</i><br>
 A Sudoku project created in Spring MVC.
 
-
+<h2>Notes</h2>
+<ul>
+  <li><i>I made a mistake with the .gitignore that I'll be careful about in future projects. The password is from class anyway though and will likely change in the future.</i></li>
+</ul>
 
 <h1>Finished</h1>
 <ul>
@@ -13,10 +16,6 @@ A Sudoku project created in Spring MVC.
   <li>Created algorithms that are capable of solving easy and medium level puzzles.</li>
 </ul>
 
-<h2>Notes</h2>
-<ul>
-  <li><i>I should have put the config folder in the .gitignore before uploading the project, I'm aware of the mistake. I just used a generic password that I used during my bootcamp anyway though, so I'm not too concerned. I will be careful in future projects and probably change the password.)</i></li>
-</ul>
 
 <h1>To Do</h1>
 <ol>
