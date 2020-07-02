@@ -1,7 +1,7 @@
 # sudoku_web
 
-<i>(Not yet complete)</i>
-A Sudoku project created in Spring MVC.<br>
+<i>(Not yet complete)</i><br>
+A Sudoku project created in Spring MVC.
 
 <h1>Finished</h1>
 <ul>
