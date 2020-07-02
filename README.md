@@ -1,7 +1,7 @@
 # sudoku_web #sudoku #java #SpringMVC #project
 
-A Sudoku project created in Spring MVC.<br>
 <i>(Not yet complete)</i>
+A Sudoku project created in Spring MVC.<br>
 
 <h1>Finished</h1>
 <ul>
