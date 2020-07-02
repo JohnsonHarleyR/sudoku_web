@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+.square {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	font-size: larger;
+	font-weight: bold;
+	align-items: center;
+    background: #ffffff;
+    width: 4vw;
+    height: 4vw;
+    border: 1px solid black;
+    margin: 0px;
+}
+
+.squaretext {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	font-size: larger;
+	color: blue;
+	align-items: center;
+    background: #ffffff;
+    width: 4vw;
+    height: 4vw;
+    margin: 0px;
+}
+
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+}
