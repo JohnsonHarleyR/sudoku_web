@@ -13,7 +13,7 @@ A Sudoku project created in Spring MVC.
   <li>Created algorithms that are capable of solving easy and medium level puzzles.</li>
 </ul>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
 <ul>
   <li><i>I should have put the config folder in the .gitignore before uploading the project, I'm aware of the mistake. I just used a generic password that I used during my bootcamp anyway though, so I'm not too concerned. I will be careful in future projects and probably change the password.)</i></li>
 </ul>
