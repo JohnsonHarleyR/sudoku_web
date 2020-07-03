@@ -24,7 +24,7 @@ See another version here, one with a generator: https://github.com/JohnsonHarley
 <ol>
   <li>Improve puzzle solver so that it can solve harder puzzles. <i>(There's a bug to fix in "betterSolver" which might help.)</i></li>
   <li>Copy the basic algorithm from my sudoku_revised project that can generate a full Sudoku grid. <i>(Use the solvers with this.)</i></li>
-  <li>Create a method to copy the new generated puzzle onto a CompleteBoard object and store it in the database, in order that original UnfinishedBoard object may be 
+  <li>Create a method to copy the new generated puzzle onto a CompleteBoard object and store it in the database, in order that the original UnfinishedBoard object may be 
   turned into a puzzle for the player to solve.</li>
   <li>Create a point counting system to determine the level of difficulty in solving a puzzle.</li>
   <li>Observe and write out the ranges of points to determine each difficulty level. <i>(Test with pre-made puzzles to help determine these ranges.)</i></li>
