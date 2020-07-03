@@ -2,6 +2,9 @@
 
 <i>(Not yet complete)</i><br>
 A Sudoku project created in Spring MVC.
+<br><br>
+See another version here, one with a generator: https://github.com/JohnsonHarleyR/Sudoku_Revised
+<br><i>(The solver is better on this one though.)</i>
 
 <h2>Notes</h2>
 <ul>
