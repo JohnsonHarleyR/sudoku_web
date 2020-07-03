@@ -42,7 +42,7 @@ See another version here, one with a generator: https://github.com/JohnsonHarley
   <li>Create a nice layout, work on the appearance.</li>
   <li>Find ways to speed up the algorithms! <i>(Look over notes about storage, datatypes, processing, etc.)</i></li>
   <li><i>(Maybe)</i> Allow player to select a button to change the cell entry instead of having to type it? <i>(Haven't decided.)</i></li>
-  <li>Implement some javaScript!</li>
+  <li>Implement some JavaScript!</li>
   <li>Allow user to store possible solutions in cell with small text. <i>(They can kinda type those in already, but not very well.)</i></li>
   <li>Only allow user to input one character in a cell. <i>(They can only submit one character by now, but only allow them to type one... If this is done, definitely work 
   on allowing the player to store possible solutions as they go.)</i></li>
