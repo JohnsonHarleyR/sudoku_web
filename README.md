@@ -28,7 +28,7 @@ See another version here, one with a generator: https://github.com/JohnsonHarley
   turned into a puzzle for the player to solve.</li>
   <li>Create a point counting system to determine the level of difficulty in solving a puzzle.</li>
   <li>Observe and write out the ranges of points to determine each difficulty level. <i>(Test with pre-made puzzles to help determine these ranges.)</i></li>
-  <li>Create a method that will generate a new puzzle, then remove cells until the new unfinished puzzle matches a desired difficutly range. Test solvability as you go. <i>(Note: The simplerSolver should be able to solve easy puzzles while the betterSolver should be able to solve medium level puzzles, etc.)</i></li>
+  <li>Create a method that will generate a new puzzle, then remove cells until the new unfinished puzzle matches a desired difficulty range. Test solvability as you go. <i>(Note: The simplerSolver should be able to solve easy puzzles while the betterSolver should be able to solve medium level puzzles, etc.)</i></li>
   <li>After all this, create a RequestMapping method <i>(sudokuController)</i> that allows a player to submit answers to a puzzle after solving it. This method should compare their answers to the complete version of the puzzle to determine if it's correct or not.</li>
   <li>Tie everything together to create playable game! Create all the buttons and wire them together for the player.</li>
   <li>Allow player to select the puzzle difficulty.</li>
