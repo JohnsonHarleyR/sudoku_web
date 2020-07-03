@@ -34,7 +34,7 @@ See another version here, one with a generator: https://github.com/JohnsonHarley
   <li>Allow player to select the puzzle difficulty.</li>
   <li>Create methods and buttons to allow the player to save their game for later.</li>
   <li>Store created puzzles in database. Later allow program to select from database of pre-created puzzles sometimes. <i>(Determine when and why.)</i> This may make the program quicker.</li>
-  <li><b>Validation, testing, bug fixing.</b> <i>(Ideally, this should be done as it goes too.)</i></li>
+  <li><b>Validation, testing, bug fixing.</b> <i>(Ideally, this should be done as it goes, as well.)</i></li>
 </ol>
 
 <h1>Extended/Extras</h2>
