@@ -44,7 +44,7 @@ See another version here, one with a generator: https://github.com/JohnsonHarley
   <li><i>(Maybe)</i> Allow player to select a button to change the cell entry instead of having to type it? <i>(Haven't decided.)</i></li>
   <li>Implement some JavaScript!</li>
   <li>Allow user to store possible solutions in cell with small text. <i>(They can kinda type those in already, but not very well.)</i></li>
-  <li>Only allow user to input one character in a cell. <i>(They can only submit one character by now, but only allow them to type one... If this is done, definitely work 
+  <li>Only allow user to input one character in a cell. <i>(They can only submit one character, but only allow them to type one as well... If this is done, definitely work 
   on allowing the player to store possible solutions as they go.)</i></li>
   <li>Create a point system/high score table for the player to keep track of their stats.</li>
   <li>Implement some animation and sound! <i>(Gotta learn to do this first lol. Maybe javaScript? I have a new book.)</i></li>
